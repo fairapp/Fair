@@ -144,6 +144,14 @@
             },
             {
               "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "internalParam",
+              "text" : "_columns"
+            },
+            {
+              "kind" : "text",
               "text" : ": "
             },
             {

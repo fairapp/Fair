@@ -83,6 +83,9 @@
         "name" : "fairtool"
       }
     ],
+    "platforms" : [
+
+    ],
     "role" : "symbol",
     "roleHeading" : "Type Method",
     "symbolKind" : "method",
@@ -133,7 +136,7 @@
             },
             {
               "kind" : "internalParam",
-              "text" : "error"
+              "text" : "_error"
             },
             {
               "kind" : "text",
@@ -260,6 +263,7 @@
   "abstract" : [
 
   ],
+  "deprecated" : true,
   "fragments" : [
     {
       "kind" : "keyword",

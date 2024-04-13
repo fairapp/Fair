@@ -53,6 +53,7 @@
         "doc:\/\/fairtool\/documentation\/fairtool\/TweetOptions\/exit(withError:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/TweetOptions\/exitCode(for:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/TweetOptions\/fullMessage(for:)",
+        "doc:\/\/fairtool\/documentation\/fairtool\/TweetOptions\/fullMessage(for:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/TweetOptions\/helpMessage(columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/TweetOptions\/helpMessage(includeHidden:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/TweetOptions\/message(for:)",
@@ -435,6 +436,7 @@
   "abstract" : [
 
   ],
+  "deprecated" : true,
   "fragments" : [
     {
       "kind" : "keyword",
@@ -489,6 +491,82 @@
   "title" : "fullMessage(for:)",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/tweetoptions\/fullmessage(for:)"
+},
+"doc://fairtool/documentation/fairtool/TweetOptions/fullMessage(for:columns:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "fullMessage"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "for"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s5ErrorP",
+      "text" : "Error"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "columns"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Si",
+      "text" : "Int"
+    },
+    {
+      "kind" : "text",
+      "text" : "?) -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/TweetOptions\/fullMessage(for:columns:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "fullMessage(for:columns:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/tweetoptions\/fullmessage(for:columns:)"
 },
 "doc://fairtool/documentation/fairtool/TweetOptions/helpMessage(columns:)": {
   "abstract" : [

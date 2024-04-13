@@ -54,6 +54,7 @@
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/exit(withError:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/exitCode(for:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/fullMessage(for:)",
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/fullMessage(for:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/helpMessage(columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/helpMessage(includeHidden:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/message(for:)",
@@ -464,6 +465,7 @@
   "abstract" : [
 
   ],
+  "deprecated" : true,
   "fragments" : [
     {
       "kind" : "keyword",
@@ -518,6 +520,82 @@
   "title" : "fullMessage(for:)",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/faircommand\/metadatacommand\/fullmessage(for:)"
+},
+"doc://fairtool/documentation/fairtool/FairCommand/MetadataCommand/fullMessage(for:columns:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "fullMessage"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "for"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:s5ErrorP",
+      "text" : "Error"
+    },
+    {
+      "kind" : "text",
+      "text" : ", "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "columns"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Si",
+      "text" : "Int"
+    },
+    {
+      "kind" : "text",
+      "text" : "?) -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/fullMessage(for:columns:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "fullMessage(for:columns:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/faircommand\/metadatacommand\/fullmessage(for:columns:)"
 },
 "doc://fairtool/documentation/fairtool/FairCommand/MetadataCommand/helpMessage(columns:)": {
   "abstract" : [
