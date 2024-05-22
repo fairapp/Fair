@@ -51,8 +51,9 @@
         "doc:\/\/fairtool\/documentation\/fairtool\/BrewCommand\/helpMessage(for:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/BrewCommand\/helpMessage(for:includeHidden:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/BrewCommand\/main()-4n2cn",
-        "doc:\/\/fairtool\/documentation\/fairtool\/BrewCommand\/main(_:)",
-        "doc:\/\/fairtool\/documentation\/fairtool\/BrewCommand\/parseAsRoot(_:)"
+        "doc:\/\/fairtool\/documentation\/fairtool\/BrewCommand\/main(_:)-6imk5",
+        "doc:\/\/fairtool\/documentation\/fairtool\/BrewCommand\/parseAsRoot(_:)",
+        "doc:\/\/fairtool\/documentation\/fairtool\/BrewCommand\/usageString(for:includeHidden:)"
       ],
       "title" : "Type Methods"
     }
@@ -407,7 +408,7 @@
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/brewcommand\/main()-4n2cn"
 },
-"doc://fairtool/documentation/fairtool/BrewCommand/main(_:)": {
+"doc://fairtool/documentation/fairtool/BrewCommand/main(_:)-6imk5": {
   "abstract" : [
 
   ],
@@ -446,12 +447,12 @@
       "text" : "]?)"
     }
   ],
-  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/BrewCommand\/main(_:)",
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/BrewCommand\/main(_:)-6imk5",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "main(_:)",
   "type" : "topic",
-  "url" : "\/documentation\/fairtool\/brewcommand\/main(_:)"
+  "url" : "\/documentation\/fairtool\/brewcommand\/main(_:)-6imk5"
 },
 "doc://fairtool/documentation/fairtool/BrewCommand/parseAsRoot(_:)": {
   "abstract" : [
@@ -544,6 +545,82 @@
   "title" : "run()",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/brewcommand\/run()"
+},
+"doc://fairtool/documentation/fairtool/BrewCommand/usageString(for:includeHidden:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "usageString"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "for"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:14ArgumentParser15ParsableCommandP",
+      "text" : "ParsableCommand"
+    },
+    {
+      "kind" : "text",
+      "text" : ".Type, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "includeHidden"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/BrewCommand\/usageString(for:includeHidden:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "usageString(for:includeHidden:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/brewcommand\/usagestring(for:includehidden:)"
 }
 }
 }

@@ -33,7 +33,8 @@
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand\/main()-6dkeo"
+        "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand\/main()-6dkeo",
+        "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand\/main(_:)-19as8"
       ],
       "title" : "Type Methods"
     }
@@ -137,6 +138,56 @@
   "title" : "main()",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/jsoncommand\/main()-6dkeo"
+},
+"doc://fairtool/documentation/fairtool/JSONCommand/main(_:)-19as8": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "main"
+    },
+    {
+      "kind" : "text",
+      "text" : "(["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "]?) "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand\/main(_:)-19as8",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "main(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/jsoncommand\/main(_:)-19as8"
 }
 }
 }

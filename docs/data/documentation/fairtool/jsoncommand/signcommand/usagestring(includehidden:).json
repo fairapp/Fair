@@ -1,0 +1,324 @@
+{
+  "abstract" : [
+    {
+      "text" : "Inherited from ",
+      "type" : "text"
+    },
+    {
+      "code" : "ParsableArguments.usageString(includeHidden:)",
+      "type" : "codeVoice"
+    },
+    {
+      "text" : ".",
+      "type" : "text"
+    }
+  ],
+  "hierarchy" : {
+    "paths" : [
+      [
+        "doc:\/\/fairtool\/documentation\/fairtool",
+        "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand",
+        "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand\/SignCommand",
+        "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand\/SignCommand\/ParsableArguments-Implementations"
+      ]
+    ]
+  },
+  "identifier" : {
+    "interfaceLanguage" : "swift",
+    "url" : "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand\/SignCommand\/usageString(includeHidden:)"
+  },
+  "kind" : "symbol",
+  "metadata" : {
+    "extendedModule" : "ArgumentParser",
+    "externalID" : "s:14ArgumentParser17ParsableArgumentsPAAE11usageString13includeHiddenSSSb_tFZ::SYNTHESIZED::s:8fairtool11JSONCommandV11SignCommandV",
+    "fragments" : [
+      {
+        "kind" : "keyword",
+        "text" : "static"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "keyword",
+        "text" : "func"
+      },
+      {
+        "kind" : "text",
+        "text" : " "
+      },
+      {
+        "kind" : "identifier",
+        "text" : "usageString"
+      },
+      {
+        "kind" : "text",
+        "text" : "("
+      },
+      {
+        "kind" : "externalParam",
+        "text" : "includeHidden"
+      },
+      {
+        "kind" : "text",
+        "text" : ": "
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:Sb",
+        "text" : "Bool"
+      },
+      {
+        "kind" : "text",
+        "text" : ") -> "
+      },
+      {
+        "kind" : "typeIdentifier",
+        "preciseIdentifier" : "s:SS",
+        "text" : "String"
+      }
+    ],
+    "modules" : [
+      {
+        "name" : "fairtool"
+      }
+    ],
+    "role" : "symbol",
+    "roleHeading" : "Type Method",
+    "symbolKind" : "method",
+    "title" : "usageString(includeHidden:)"
+  },
+  "primaryContentSections" : [
+    {
+      "declarations" : [
+        {
+          "languages" : [
+            "swift"
+          ],
+          "platforms" : [
+            "macOS"
+          ],
+          "tokens" : [
+            {
+              "kind" : "keyword",
+              "text" : "static"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "keyword",
+              "text" : "func"
+            },
+            {
+              "kind" : "text",
+              "text" : " "
+            },
+            {
+              "kind" : "identifier",
+              "text" : "usageString"
+            },
+            {
+              "kind" : "text",
+              "text" : "("
+            },
+            {
+              "kind" : "externalParam",
+              "text" : "includeHidden"
+            },
+            {
+              "kind" : "text",
+              "text" : ": "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:Sb",
+              "text" : "Bool"
+            },
+            {
+              "kind" : "text",
+              "text" : " = false) -> "
+            },
+            {
+              "kind" : "typeIdentifier",
+              "preciseIdentifier" : "s:SS",
+              "text" : "String"
+            }
+          ]
+        }
+      ],
+      "kind" : "declarations"
+    }
+  ],
+  "schemaVersion" : {
+    "major" : 0,
+    "minor" : 3,
+    "patch" : 0
+  },
+  "sections" : [
+
+  ],
+  "variants" : [
+    {
+      "paths" : [
+        "\/documentation\/fairtool\/jsoncommand\/signcommand\/usagestring(includehidden:)"
+      ],
+      "traits" : [
+        {
+          "interfaceLanguage" : "swift"
+        }
+      ]
+    }
+  ]
+, 
+"references": {
+"doc://fairtool/documentation/fairtool": {
+  "abstract" : [
+    {
+      "text" : "Utility to manage an ecosystem of apps.",
+      "type" : "text"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool",
+  "kind" : "symbol",
+  "role" : "collection",
+  "title" : "fairtool",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool"
+},
+"doc://fairtool/documentation/fairtool/JSONCommand": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "JSONCommand"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "JSONCommand"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "JSONCommand",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/jsoncommand"
+},
+"doc://fairtool/documentation/fairtool/JSONCommand/SignCommand": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "struct"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "SignCommand"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand\/SignCommand",
+  "kind" : "symbol",
+  "navigatorTitle" : [
+    {
+      "kind" : "identifier",
+      "text" : "SignCommand"
+    }
+  ],
+  "role" : "symbol",
+  "title" : "JSONCommand.SignCommand",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/jsoncommand\/signcommand"
+},
+"doc://fairtool/documentation/fairtool/JSONCommand/SignCommand/ParsableArguments-Implementations": {
+  "abstract" : [
+
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand\/SignCommand\/ParsableArguments-Implementations",
+  "kind" : "article",
+  "role" : "collectionGroup",
+  "title" : "ParsableArguments Implementations",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/jsoncommand\/signcommand\/parsablearguments-implementations"
+},
+"doc://fairtool/documentation/fairtool/JSONCommand/SignCommand/usageString(includeHidden:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "usageString"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "includeHidden"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/JSONCommand\/SignCommand\/usageString(includeHidden:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "usageString(includeHidden:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/jsoncommand\/signcommand\/usagestring(includehidden:)"
+}
+}
+}

@@ -52,8 +52,9 @@
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/helpMessage(for:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/helpMessage(for:includeHidden:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/main()-8m7af",
-        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/main(_:)",
-        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/parseAsRoot(_:)"
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/main(_:)-7bi70",
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/parseAsRoot(_:)",
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/usageString(for:includeHidden:)"
       ],
       "title" : "Type Methods"
     }
@@ -439,7 +440,7 @@
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/faircommand\/fairsealcommand\/main()-8m7af"
 },
-"doc://fairtool/documentation/fairtool/FairCommand/FairsealCommand/main(_:)": {
+"doc://fairtool/documentation/fairtool/FairCommand/FairsealCommand/main(_:)-7bi70": {
   "abstract" : [
 
   ],
@@ -478,12 +479,12 @@
       "text" : "]?)"
     }
   ],
-  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/main(_:)",
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/main(_:)-7bi70",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "main(_:)",
   "type" : "topic",
-  "url" : "\/documentation\/fairtool\/faircommand\/fairsealcommand\/main(_:)"
+  "url" : "\/documentation\/fairtool\/faircommand\/fairsealcommand\/main(_:)-7bi70"
 },
 "doc://fairtool/documentation/fairtool/FairCommand/FairsealCommand/parseAsRoot(_:)": {
   "abstract" : [
@@ -576,6 +577,82 @@
   "title" : "run()",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/faircommand\/fairsealcommand\/run()-4zuos"
+},
+"doc://fairtool/documentation/fairtool/FairCommand/FairsealCommand/usageString(for:includeHidden:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "usageString"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "for"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:14ArgumentParser15ParsableCommandP",
+      "text" : "ParsableCommand"
+    },
+    {
+      "kind" : "text",
+      "text" : ".Type, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "includeHidden"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/usageString(for:includeHidden:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "usageString(for:includeHidden:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/faircommand\/fairsealcommand\/usagestring(for:includehidden:)"
 }
 }
 }

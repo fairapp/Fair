@@ -58,7 +58,8 @@
         "doc:\/\/fairtool\/documentation\/fairtool\/DelayOptions\/helpMessage(includeHidden:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/DelayOptions\/message(for:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/DelayOptions\/parse(_:)",
-        "doc:\/\/fairtool\/documentation\/fairtool\/DelayOptions\/parseOrExit(_:)"
+        "doc:\/\/fairtool\/documentation\/fairtool\/DelayOptions\/parseOrExit(_:)",
+        "doc:\/\/fairtool\/documentation\/fairtool\/DelayOptions\/usageString(includeHidden:)"
       ],
       "title" : "Type Methods"
     }
@@ -867,6 +868,65 @@
   "title" : "parseOrExit(_:)",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/delayoptions\/parseorexit(_:)"
+},
+"doc://fairtool/documentation/fairtool/DelayOptions/usageString(includeHidden:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "usageString"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "includeHidden"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/DelayOptions\/usageString(includeHidden:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "usageString(includeHidden:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/delayoptions\/usagestring(includehidden:)"
 },
 "doc://fairtool/documentation/fairtool/DelayOptions/validate()": {
   "abstract" : [

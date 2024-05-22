@@ -51,8 +51,9 @@
         "doc:\/\/fairtool\/documentation\/fairtool\/TranslateCommand\/helpMessage(for:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/TranslateCommand\/helpMessage(for:includeHidden:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/TranslateCommand\/main()-91omc",
-        "doc:\/\/fairtool\/documentation\/fairtool\/TranslateCommand\/main(_:)",
-        "doc:\/\/fairtool\/documentation\/fairtool\/TranslateCommand\/parseAsRoot(_:)"
+        "doc:\/\/fairtool\/documentation\/fairtool\/TranslateCommand\/main(_:)-1qifg",
+        "doc:\/\/fairtool\/documentation\/fairtool\/TranslateCommand\/parseAsRoot(_:)",
+        "doc:\/\/fairtool\/documentation\/fairtool\/TranslateCommand\/usageString(for:includeHidden:)"
       ],
       "title" : "Type Methods"
     }
@@ -407,7 +408,7 @@
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/translatecommand\/main()-91omc"
 },
-"doc://fairtool/documentation/fairtool/TranslateCommand/main(_:)": {
+"doc://fairtool/documentation/fairtool/TranslateCommand/main(_:)-1qifg": {
   "abstract" : [
 
   ],
@@ -446,12 +447,12 @@
       "text" : "]?)"
     }
   ],
-  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/TranslateCommand\/main(_:)",
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/TranslateCommand\/main(_:)-1qifg",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "main(_:)",
   "type" : "topic",
-  "url" : "\/documentation\/fairtool\/translatecommand\/main(_:)"
+  "url" : "\/documentation\/fairtool\/translatecommand\/main(_:)-1qifg"
 },
 "doc://fairtool/documentation/fairtool/TranslateCommand/parseAsRoot(_:)": {
   "abstract" : [
@@ -544,6 +545,82 @@
   "title" : "run()",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/translatecommand\/run()"
+},
+"doc://fairtool/documentation/fairtool/TranslateCommand/usageString(for:includeHidden:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "usageString"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "for"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:14ArgumentParser15ParsableCommandP",
+      "text" : "ParsableCommand"
+    },
+    {
+      "kind" : "text",
+      "text" : ".Type, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "includeHidden"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/TranslateCommand\/usageString(for:includeHidden:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "usageString(for:includeHidden:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/translatecommand\/usagestring(for:includehidden:)"
 }
 }
 }

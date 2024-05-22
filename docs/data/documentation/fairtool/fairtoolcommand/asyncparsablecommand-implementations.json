@@ -33,7 +33,8 @@
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/fairtool\/documentation\/fairtool\/FairToolCommand\/main()-c0el"
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairToolCommand\/main()-c0el",
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairToolCommand\/main(_:)-9cl32"
       ],
       "title" : "Type Methods"
     }
@@ -137,6 +138,56 @@
   "title" : "main()",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/fairtoolcommand\/main()-c0el"
+},
+"doc://fairtool/documentation/fairtool/FairToolCommand/main(_:)-9cl32": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "main"
+    },
+    {
+      "kind" : "text",
+      "text" : "(["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "]?) "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/FairToolCommand\/main(_:)-9cl32",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "main(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/fairtoolcommand\/main(_:)-9cl32"
 }
 }
 }

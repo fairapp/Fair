@@ -45,8 +45,9 @@
         "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/RefreshCommand\/helpMessage(for:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/RefreshCommand\/helpMessage(for:includeHidden:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/RefreshCommand\/main()-5fnsc",
-        "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/RefreshCommand\/main(_:)",
-        "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/RefreshCommand\/parseAsRoot(_:)"
+        "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/RefreshCommand\/main(_:)-8cy1o",
+        "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/RefreshCommand\/parseAsRoot(_:)",
+        "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/RefreshCommand\/usageString(for:includeHidden:)"
       ],
       "title" : "Type Methods"
     }
@@ -435,7 +436,7 @@
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/appcommand\/refreshcommand\/main()-5fnsc"
 },
-"doc://fairtool/documentation/fairtool/AppCommand/RefreshCommand/main(_:)": {
+"doc://fairtool/documentation/fairtool/AppCommand/RefreshCommand/main(_:)-8cy1o": {
   "abstract" : [
 
   ],
@@ -474,12 +475,12 @@
       "text" : "]?)"
     }
   ],
-  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/RefreshCommand\/main(_:)",
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/RefreshCommand\/main(_:)-8cy1o",
   "kind" : "symbol",
   "role" : "symbol",
   "title" : "main(_:)",
   "type" : "topic",
-  "url" : "\/documentation\/fairtool\/appcommand\/refreshcommand\/main(_:)"
+  "url" : "\/documentation\/fairtool\/appcommand\/refreshcommand\/main(_:)-8cy1o"
 },
 "doc://fairtool/documentation/fairtool/AppCommand/RefreshCommand/parseAsRoot(_:)": {
   "abstract" : [
@@ -539,6 +540,82 @@
   "title" : "parseAsRoot(_:)",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/appcommand\/refreshcommand\/parseasroot(_:)"
+},
+"doc://fairtool/documentation/fairtool/AppCommand/RefreshCommand/usageString(for:includeHidden:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "usageString"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "for"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:14ArgumentParser15ParsableCommandP",
+      "text" : "ParsableCommand"
+    },
+    {
+      "kind" : "text",
+      "text" : ".Type, "
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "includeHidden"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/RefreshCommand\/usageString(for:includeHidden:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "usageString(for:includeHidden:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/appcommand\/refreshcommand\/usagestring(for:includehidden:)"
 }
 }
 }

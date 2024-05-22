@@ -34,7 +34,8 @@
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/fairtool\/documentation\/fairtool\/ArtifactCommand\/InfoCommand\/main()-89jwv"
+        "doc:\/\/fairtool\/documentation\/fairtool\/ArtifactCommand\/InfoCommand\/main()-89jwv",
+        "doc:\/\/fairtool\/documentation\/fairtool\/ArtifactCommand\/InfoCommand\/main(_:)-7tena"
       ],
       "title" : "Type Methods"
     }
@@ -169,6 +170,56 @@
   "title" : "main()",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/artifactcommand\/infocommand\/main()-89jwv"
+},
+"doc://fairtool/documentation/fairtool/ArtifactCommand/InfoCommand/main(_:)-7tena": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "main"
+    },
+    {
+      "kind" : "text",
+      "text" : "(["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "]?) "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/ArtifactCommand\/InfoCommand\/main(_:)-7tena",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "main(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/artifactcommand\/infocommand\/main(_:)-7tena"
 }
 }
 }

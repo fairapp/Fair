@@ -34,7 +34,8 @@
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/IconCommand\/main()-8a8vv"
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/IconCommand\/main()-8a8vv",
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/IconCommand\/main(_:)-6md3q"
       ],
       "title" : "Type Methods"
     }
@@ -169,6 +170,56 @@
   "title" : "main()",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/faircommand\/iconcommand\/main()-8a8vv"
+},
+"doc://fairtool/documentation/fairtool/FairCommand/IconCommand/main(_:)-6md3q": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "main"
+    },
+    {
+      "kind" : "text",
+      "text" : "(["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "]?) "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/IconCommand\/main(_:)-6md3q",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "main(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/faircommand\/iconcommand\/main(_:)-6md3q"
 }
 }
 }

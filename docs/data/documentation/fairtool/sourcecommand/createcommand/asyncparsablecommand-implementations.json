@@ -34,7 +34,8 @@
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/fairtool\/documentation\/fairtool\/SourceCommand\/CreateCommand\/main()-7dvrk"
+        "doc:\/\/fairtool\/documentation\/fairtool\/SourceCommand\/CreateCommand\/main()-7dvrk",
+        "doc:\/\/fairtool\/documentation\/fairtool\/SourceCommand\/CreateCommand\/main(_:)-gejd"
       ],
       "title" : "Type Methods"
     }
@@ -169,6 +170,56 @@
   "title" : "main()",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/sourcecommand\/createcommand\/main()-7dvrk"
+},
+"doc://fairtool/documentation/fairtool/SourceCommand/CreateCommand/main(_:)-gejd": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "main"
+    },
+    {
+      "kind" : "text",
+      "text" : "(["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "]?) "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/SourceCommand\/CreateCommand\/main(_:)-gejd",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "main(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/sourcecommand\/createcommand\/main(_:)-gejd"
 }
 }
 }

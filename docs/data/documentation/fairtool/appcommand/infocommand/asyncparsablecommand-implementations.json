@@ -34,7 +34,8 @@
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/InfoCommand\/main()-2dp01"
+        "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/InfoCommand\/main()-2dp01",
+        "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/InfoCommand\/main(_:)-1p9dc"
       ],
       "title" : "Type Methods"
     }
@@ -169,6 +170,56 @@
   "title" : "main()",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/appcommand\/infocommand\/main()-2dp01"
+},
+"doc://fairtool/documentation/fairtool/AppCommand/InfoCommand/main(_:)-1p9dc": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "main"
+    },
+    {
+      "kind" : "text",
+      "text" : "(["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "]?) "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/AppCommand\/InfoCommand\/main(_:)-1p9dc",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "main(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/appcommand\/infocommand\/main(_:)-1p9dc"
 }
 }
 }

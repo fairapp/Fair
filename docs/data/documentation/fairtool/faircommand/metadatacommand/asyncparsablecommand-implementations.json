@@ -34,7 +34,8 @@
     {
       "generated" : true,
       "identifiers" : [
-        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/main()-980rc"
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/main()-980rc",
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/main(_:)-8rgpn"
       ],
       "title" : "Type Methods"
     }
@@ -169,6 +170,56 @@
   "title" : "main()",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/faircommand\/metadatacommand\/main()-980rc"
+},
+"doc://fairtool/documentation/fairtool/FairCommand/MetadataCommand/main(_:)-8rgpn": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "main"
+    },
+    {
+      "kind" : "text",
+      "text" : "(["
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    },
+    {
+      "kind" : "text",
+      "text" : "]?) "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "async"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/MetadataCommand\/main(_:)-8rgpn",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "main(_:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/faircommand\/metadatacommand\/main(_:)-8rgpn"
 }
 }
 }

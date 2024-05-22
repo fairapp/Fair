@@ -59,7 +59,8 @@
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/helpMessage(includeHidden:columns:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/message(for:)",
         "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/parse(_:)",
-        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/parseOrExit(_:)"
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/parseOrExit(_:)",
+        "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/usageString(includeHidden:)"
       ],
       "title" : "Type Methods"
     }
@@ -899,6 +900,65 @@
   "title" : "parseOrExit(_:)",
   "type" : "topic",
   "url" : "\/documentation\/fairtool\/faircommand\/fairsealcommand\/parseorexit(_:)"
+},
+"doc://fairtool/documentation/fairtool/FairCommand/FairsealCommand/usageString(includeHidden:)": {
+  "abstract" : [
+
+  ],
+  "fragments" : [
+    {
+      "kind" : "keyword",
+      "text" : "static"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "keyword",
+      "text" : "func"
+    },
+    {
+      "kind" : "text",
+      "text" : " "
+    },
+    {
+      "kind" : "identifier",
+      "text" : "usageString"
+    },
+    {
+      "kind" : "text",
+      "text" : "("
+    },
+    {
+      "kind" : "externalParam",
+      "text" : "includeHidden"
+    },
+    {
+      "kind" : "text",
+      "text" : ": "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:Sb",
+      "text" : "Bool"
+    },
+    {
+      "kind" : "text",
+      "text" : ") -> "
+    },
+    {
+      "kind" : "typeIdentifier",
+      "preciseIdentifier" : "s:SS",
+      "text" : "String"
+    }
+  ],
+  "identifier" : "doc:\/\/fairtool\/documentation\/fairtool\/FairCommand\/FairsealCommand\/usageString(includeHidden:)",
+  "kind" : "symbol",
+  "role" : "symbol",
+  "title" : "usageString(includeHidden:)",
+  "type" : "topic",
+  "url" : "\/documentation\/fairtool\/faircommand\/fairsealcommand\/usagestring(includehidden:)"
 },
 "doc://fairtool/documentation/fairtool/FairCommand/FairsealCommand/validate()": {
   "abstract" : [
